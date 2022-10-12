@@ -20,3 +20,7 @@
 - [ ] Doker For Panel And Bot Telegram
 - [X] Follow And Unfollow Users Instagram
 - [X] Create List Logs And Send To Bot Telegram
+
+
+##### Not completed
+
